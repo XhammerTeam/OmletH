@@ -1,3 +1,4 @@
+chmod +x OmletH.sh
 apt install figlet
 clear
 figlet OmletH
